@@ -1,0 +1,38 @@
+# FX Rates LED Display - Python Dependencies
+# =========================================
+
+# Core Dependencies (Required)
+# ----------------------------
+
+# Kafka streaming
+kafka-python==2.0.2
+
+# Timezone handling
+pytz==2024.2
+
+# Database connectivity (for load_reference_rates.py)
+psycopg2-binary==2.9.10
+
+# Terminal UI (for LED display visualization)
+rich==13.9.4
+
+
+# Optional Dependencies (Development/Testing)
+# -------------------------------------------
+
+# Testing
+# pytest==8.0.0
+# pytest-asyncio==0.23.0
+
+# Code Quality
+# black==24.0.0
+# pylint==3.0.0
+# mypy==1.8.0
+
+
+# Installation
+# ------------
+# pip install -r requirements.txt
+#
+# Or for development:
+# pip install -r requirements.txt pytest black pylint mypy
